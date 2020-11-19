@@ -1,0 +1,13 @@
+
+HOW TO PLAY
+
+Vikings are trying to invade your castle. You have to protect it the longest as
+you can building towers that will attack them.
+
+To build a tower, click on its button and place it on the map. You can place at
+most three (3) towers for each type at the same time.
+
+There are four (4) types of towers. Each type has its own properties (life,
+damages, attack distances...).
+
+Press Escape to pause the game.
